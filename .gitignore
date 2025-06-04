@@ -1,0 +1,17 @@
+# Fichiers de base de données
+db.sqlite3
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+.venv/
+
+# Fichiers de l'éditeur
+.vscode/
+.idea/
+
+# Fichiers de modèle volumineux
+emotion_app/ml_model/fer2013.csv
+emotion_app/ml_model/fer_model.h5
